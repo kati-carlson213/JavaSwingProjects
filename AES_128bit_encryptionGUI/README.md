@@ -2,4 +2,4 @@ NOTE: This was based off a project I had created for a cryptography class, in wh
 
 Later on (so, after the class ended), I wanted to practice making a simple GUI, so here I edited my previous project so that there is a GUI that a user can interact with in order to encrypt and decrypt their data. I also edited my old code so that the GUI version would work in CBC mode as well (as ECB is not very secure). I did that by hand as well.
 
-(The original code that I had created for the class is in the "originalAESProject" folder for this repo.)
+(The original code that I had created for the class is in the "originalAESProject" folder.)
