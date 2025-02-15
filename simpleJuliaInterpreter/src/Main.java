@@ -16,7 +16,7 @@ public class Main {
     Main() {
         JFrame frame = new JFrame("Simple Julia Interpreter");
 
-        ImageIcon img = new ImageIcon("C:\\Users\\katie\\IdeaProjects\\simpleJuliaInterpreter\\juliaIcon.jpg");
+        ImageIcon img = new ImageIcon("simpleJuliaInterpreter\\juliaIcon.jpg");
 
         frame.setIconImage(img.getImage());
 
